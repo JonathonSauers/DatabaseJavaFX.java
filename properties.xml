@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Jonathon Sauers
+jo046326
+Object Oriented Programming, Summer 2017
+DatabaseJavaFx.java
+-->
+
+<properties>
+    <driver type="org.postgresql.Driver">
+        <url>jdbc:postgresql</url>
+        <ipaddress>localhost</ipaddress>
+        <port>5432</port>
+        <database>dvdrental</database>
+        <login>postgres</login>
+        <password>cop3330</password>
+     </driver>
+</properties>
